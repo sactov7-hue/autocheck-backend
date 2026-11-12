@@ -1,15 +1,15 @@
 {
-  "name": "autocheck-chile-api",
-  "version": "1.0.0",
-  "description": "Backend gratuito para AutoCheck Chile",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "axios": "^1.7.7",
-    "cheerio": "^1.0.0",
-    "cors": "^2.8.5",
-    "express": "^4.21.1"
-  }
+"name": "autocheck-chile-api",
+"version": "1.0.0",
+"description": "Backend gratuito para AutoCheck Chile",
+"main": "servidor_gratuito_autocheck_chile.js",
+"scripts": {
+"start": "node servidor_gratuito_autocheck_chile.js"
+},
+"dependencies": {
+"axios": "^1.7.7",
+"cheerio": "^1.0.0",
+"cors": "^2.8.5",
+"express": "^4.21.1"
+}
 }
